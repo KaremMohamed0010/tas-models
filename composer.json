@@ -1,0 +1,10 @@
+{
+    "name": "tas/common-modles",
+    "description": "tas commen modles",
+    "autoload": {
+        "psr-4": {
+            "Tas\\CommonModles\\": "src/"
+        }
+    },
+    "require": {}
+}
