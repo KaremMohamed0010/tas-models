@@ -1,5 +1,6 @@
 <?php
 
+namespace Tas\CommonModles\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
