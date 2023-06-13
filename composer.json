@@ -1,5 +1,5 @@
 {
-    "name": "tas/common-modles",
+    "name": "tas/CommonModles",
     "description": "tas commen modles",
     "autoload": {
         "psr-4": {
